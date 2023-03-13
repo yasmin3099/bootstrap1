@@ -1,0 +1,13 @@
+
+.tt {
+    background-image: url(../images/360_F_533894344_MDYjJANXp9T6vmI2Z2GNABNsN2ZDEt8j.jpg);
+
+}
+.bb{
+    background-image: url(../images/890052151e584f02f94bc0c4e346e9b0-books-continuous-line-color.png);
+}
+.container-img{
+    background-attachment: fixed;
+    background-size: contain;
+    height: 250px;
+}
